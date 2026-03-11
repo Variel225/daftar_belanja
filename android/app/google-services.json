@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632807416449",
+    "project_id": "first-app-9f38a",
+    "storage_bucket": "first-app-9f38a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632807416449:android:2c689802cfa65aabcf6380",
+        "android_client_info": {
+          "package_name": "com.example.daftar_karyawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWm1tGsdQSSN0RYiLf6B8-v_FyzNhThs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
